@@ -1,12 +1,12 @@
 NAME		=	gnl
 CC			=	cc
 CFLAGS		=	-Wall -Wextra -Werror
-VFLAGS		=	-g
+VFLAGS		=	-g3
 
-MSRCS		=	mandatory_tests.c \
+MSRCS		=	srcs/mandatory_tests.c \
 				../get_next_line.c \
 				../get_next_line_utils.c
-BSRCS		=	bonus_tests.c \
+BSRCS		=	srcs/bonus_tests.c \
 				../get_next_line_bonus.c \
 				../get_next_line_utils_bonus.c
 
