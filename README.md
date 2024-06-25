@@ -39,6 +39,8 @@ Ways you can use the program :
 
 ## Example
 
+![Example](images/example1.png)
+
 ## Improvements to-do list
 
 - [ ] The bonus program can read only `n` lines from files without going through the whole file.

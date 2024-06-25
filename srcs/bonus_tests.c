@@ -6,11 +6,11 @@
 /*   By: cnguyen- <cnguyen-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/02 20:44:01 by cnguyen-          #+#    #+#             */
-/*   Updated: 2024/06/02 21:48:40 by cnguyen-         ###   ########.fr       */
+/*   Updated: 2024/06/25 21:52:57 by cnguyen-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../get_next_line_bonus.h"
+#include "get_next_line_bonus.h"
 #include <stdio.h>
 #include <fcntl.h>
 

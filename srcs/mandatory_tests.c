@@ -6,11 +6,11 @@
 /*   By: cnguyen- <cnguyen-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/30 17:33:11 by cnguyen-          #+#    #+#             */
-/*   Updated: 2024/06/01 15:36:31 by cnguyen-         ###   ########.fr       */
+/*   Updated: 2024/06/25 21:52:47 by cnguyen-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../get_next_line.h"
+#include "get_next_line.h"
 #include <stdio.h>
 #include <fcntl.h>
 #include <limits.h>
